@@ -13,9 +13,7 @@ Just an ordinary person who wants to code.
 * ⌚  Now, I'm studying Back End Devoloper
 ### Skills
 
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
 
 
 ### Socials
