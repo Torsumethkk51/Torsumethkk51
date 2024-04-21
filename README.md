@@ -18,7 +18,7 @@ Just an ordinary person who wants to code.
 
 ### Socials
 
-[![My Skills](https://skillicons.dev/icons?i=github,facebook,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
 ### Badges
 
