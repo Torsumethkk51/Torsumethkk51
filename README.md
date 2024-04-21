@@ -13,12 +13,12 @@ Just an ordinary person who wants to code.
 * ⌚  Now, I'm studying Back End Devoloper
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/ailomoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Torsumathp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+[![My Skills](https://skillicons.dev/icons?i=github,facebook,discord)](https://skillicons.dev)
 
 ### Badges
 
