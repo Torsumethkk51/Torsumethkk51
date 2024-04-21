@@ -17,7 +17,6 @@ I'm just a student who can coding.
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="36" height="36" alt="ReactJS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353527/bulma.svg" width="36" height="36" alt="Bulma" /></a>
-  </img src="https://th.bing.com/th/id/R.e0d6bfb7ce539a0f3059b772c4d266c0?rik=dcqban%2bmoGKZaA&pid=ImgRaw&r=0">
 </p>
 
 
