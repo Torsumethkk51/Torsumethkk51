@@ -1,12 +1,15 @@
-Hi 🐐My name is Torsumathp
+Hi 🐐My name is Torsumethkk or you can call me Sumeth Now I'm 16 years old
 ===========================
 
 Student
 -------
 
-I'm just a student who can coding.
+Just an ordinary person who wants to code.
 
 * 🌍  I'm based in Bangkok, Thailand
+* 📕  I'm student at Watnuannoradit School
+* 🧑‍💻  I'm Front End Devoloper and a little bit of Back End
+* ⌚  Now, I'm studying Back End Devoloper
 ### Skills
 
 
