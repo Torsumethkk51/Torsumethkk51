@@ -21,6 +21,8 @@ Just an ordinary person who wants to code.
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="36" height="36" alt="ReactJS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353527/bulma.svg" width="36" height="36" alt="Bulma" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
 
