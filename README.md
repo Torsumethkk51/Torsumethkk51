@@ -13,15 +13,7 @@ Just an ordinary person who wants to code.
 * ⌚  Now, I'm studying Back End Devoloper
 ### Skills
 
-
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="36" height="36" alt="ReactJS" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353527/bulma.svg" width="36" height="36" alt="Bulma" /></a>
-
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
