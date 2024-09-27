@@ -13,7 +13,7 @@ Just an ordinary person who wants to code.
 * ⌚  Now, I'm interesting about coding with C.
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,go)
 
 
 ### Socials
